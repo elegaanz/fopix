@@ -1,0 +1,24 @@
+{
+  "name": "fopix",
+  "version": "1.0.0",
+  "description": "r/place mais en mieux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elegaanz/fopix-js.git"
+  },
+  "author": "Le meilleur groupe de TP RX",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/elegaanz/fopix-js/issues"
+  },
+  "homepage": "https://github.com/elegaanz/fopix-js#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-ws": "^5.0.2",
+    "moment": "^2.29.2"
+  }
+}
